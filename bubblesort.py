@@ -10,7 +10,7 @@ def bubble_sort(arr):
 
 def main():
     
-    arr = input("Enter the data separated by spaces: ").split()
+    arr = input("Masukkan beberapa data yang ingin diurutkan (pisahkan dengan spasi): ").split()
     arr = [int(x) for x in arr]
 
     start_time = time.time()
