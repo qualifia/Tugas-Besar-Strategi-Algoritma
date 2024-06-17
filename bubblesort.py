@@ -17,9 +17,9 @@ def main():
     sorted_arr = bubble_sort(arr)
     end_time = time.time()
 
-    print("Sorted data:")
+    print("Data yang diurutkan:")
     print(sorted_arr)
-    print("Running time: {:.2f} ms".format((end_time - start_time) * 1000))
+    print("Waktu yang dieksekusi: {:.2f} ms".format((end_time - start_time) * 1000))
 
 if __name__ == "__main__":
     main()
