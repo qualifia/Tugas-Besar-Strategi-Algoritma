@@ -1,4 +1,4 @@
-# Tugas-Besar-Strategi-Algoritma
+# Tugas Besar Analisis Kompleksitas Algoritma
 Source Code untuk Tugas Besar Strategi Algoritma
 
 Run salah satu program bubble sort atau quick sort
